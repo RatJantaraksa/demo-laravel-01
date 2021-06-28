@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## ระบบสมัครสมาชิก
+## ระบบสมาชิก
 โจทการเขียนโปรแกรม จะต้องทำการเขียนโปรแกรมตามรายการต่อไปนี้โดยให้เป็นไปตามมาตรฐานของ Laravel
 
 - เขียนโปรแกรม Login เข้าระบบ
